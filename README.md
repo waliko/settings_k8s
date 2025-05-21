@@ -1,1 +1,1 @@
-# setting_k8s
+# settings_k8s
